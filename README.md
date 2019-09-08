@@ -1,5 +1,8 @@
 # Machine-learning-in-policy-evaluation-new-tools-for-causal-inference
-This is the repository holding the code used to perform the analysis used in the manuscript "Machine learning in policy evaluation: new tools for causal inference"
+This is the repository holding the code used to perform the analysis used in the manuscript "Machine learning in policy evaluation: new tools for causal inference" by Noémi Kreif and Karla DiazOrdaz
+(2019, May 23).  Oxford Research Encyclopedia of Economics and Finance.  DOI: 10.1093/acrefore/9780190625979.001.0001/acrefore-9780190625979-e-94.
+
+https://arxiv.org/pdf/1903.00402.pdf
 
 
 It contains R code to perform parallel super-learning of both propensity score models and outcome regression models, used in the mauscript to obtain Average Treatment Effects (ATE) estimates using Inverse probability of Treatment Weighting (IPTW) ATE, as well as Augmented IPTW and TMLE. 
